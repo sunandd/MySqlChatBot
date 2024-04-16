@@ -1,3 +1,8 @@
 streamlit
 langhchain
 langhchain-comunity
+langchain-core
+langchain-openai
+groq
+langchain-groq
+mysql-connector-python
